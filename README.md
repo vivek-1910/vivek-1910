@@ -31,9 +31,14 @@
       <img src="assets/switchai-icon-cropped.png" width="120" height="120" style="border-radius: 24px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" alt="SwitchAi Logo" />
     </td>
     <td align="left" valign="middle" style="padding: 10px 10px 10px 20px; border: none; background: transparent;">
-      <h3 style="font-size: 28px; margin: 0 0 10px 0; font-family: 'Varela Round', sans-serif; font-weight: normal; border-bottom: none;">SwitchAi</h3>
-      <p style="font-size: 16px; color: #4b5563; line-height: 1.6; margin: 0 0 20px 0; font-family: 'Varela Round', sans-serif; font-weight: normal;">
+      <h3 style="font-size: 28px; margin: 0 0 10px 0; font-family: 'Varela Round', sans-serif; font-weight: normal; border-bottom: none;">
+        <a href="https://switchaicloud.com" style="color: #0366d6; text-decoration: none;">SwitchAi</a>
+      </h3>
+      <p style="font-size: 16px; color: #4b5563; line-height: 1.6; margin: 0 0 12px 0; font-family: 'Varela Round', sans-serif; font-weight: normal;">
         A multi-AI model routing platform that dynamically sends each query to the best-suited model, featuring real-time image bridging and seamless model switching for optimized intelligence and performance.
+      </p>
+      <p style="font-size: 14px; margin: 0 0 16px 0; font-family: 'Varela Round', sans-serif; font-weight: normal;">
+        🌐 **Website:** <a href="https://switchaicloud.com" style="color: #0366d6; text-decoration: none;">switchaicloud.com</a>
       </p>
       <p style="margin: 0;">
         <a href="https://play.google.com/store/apps/details?id=com.vivekgowdas.SwitchAi&hl=en_IN">

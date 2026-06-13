@@ -42,9 +42,9 @@ Multi-AI model routing platform that sends each query to the best-suited model, 
 
 <table>
   <tr>
-    <td align="center" width="110">
+    <td align="center" width="130">
       <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
-      <br>React Native
+      <br><span style="white-space: nowrap;">React Native</span>
     </td>
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />

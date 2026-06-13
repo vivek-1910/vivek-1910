@@ -24,7 +24,7 @@
 ## 📱 Featured Project
 
 <p align="center">
-  <img src="assets/switchai-icon.png" width="100" height="100" style="border-radius: 22px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" alt="SwitchAi Logo" />
+  <img src="assets/switchai-icon.png" width="180" height="180" style="border-radius: 36px; box-shadow: 0 6px 16px rgba(0,0,0,0.1);" alt="SwitchAi Logo" />
 </p>
 
 <h3 align="center" style="font-size: 24px; margin-top: 10px;">SwitchAi</h3>

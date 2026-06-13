@@ -54,27 +54,75 @@
 
 ---
 
-## 🛠️ Tech Stack & Favorite Tools
+## My Favorite Tools and Technologies
+
+> Tools and technologies that I have worked with and am interested in
 
 <table>
   <tr>
-    <td valign="top" width="50%" style="padding: 12px;">
-      <h4>📱 Mobile & Frontend</h4>
-      <img src="https://skillicons.dev/icons?i=react,expo,tailwind,figma" alt="Mobile & Frontend Stack" />
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
+      <br><span style="white-space: nowrap;">React Native</span>
     </td>
-    <td valign="top" width="50%" style="padding: 12px;">
-      <h4>⚙️ Backend & Services</h4>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,typescript,javascript" alt="Backend Stack" />
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
+      <br>Express.js
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+      <br>Firebase
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=expo" width="48" height="48" alt="Expo" />
+      <br>Expo
     </td>
   </tr>
   <tr>
-    <td valign="top" width="50%" style="padding: 12px;">
-      <h4>🧠 Programming & AI</h4>
-      <img src="https://skillicons.dev/icons?i=python,c,linux" alt="AI & Core Language Stack" />
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
     </td>
-    <td valign="top" width="50%" style="padding: 12px;">
-      <h4>🛠️ Tooling & Workflows</h4>
-      <img src="https://skillicons.dev/icons?i=git,github" alt="Workflows & Version Control" />
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+      <br>C
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      <br>Figma
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="REST APIs" />
+      <br>REST APIs
+    </td>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
     </td>
   </tr>
 </table>

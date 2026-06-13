@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/153922858?v=4" width="140" height="140" alt="Vivek Gowda S" />
+  <img src="https://avatars.githubusercontent.com/u/153922858?v=4" width="130" height="130" style="border-radius: 50%;" alt="Vivek Gowda S" />
 
   # Vivek Gowda S
-
-  <p>
-    <strong>B.Tech AIML student</strong> • <strong>Full-stack mobile developer</strong> • <strong>AI product builder</strong>
+  
+  <p align="center">
+    <strong>B.Tech AIML Student</strong> &bull; <strong>Full-Stack Mobile Developer</strong> &bull; <strong>AI Product Builder</strong>
   </p>
 
-  <p>
-    Building AI-driven mobile apps with React Native, Node.js, Firebase, and LLM workflows.
+  <p align="center">
+    Building production-ready, AI-driven mobile applications with React Native, Node.js, Firebase, and advanced LLM workflows.
   </p>
 
-  <p>
+  <p align="center">
     <a href="https://github.com/vivek-1910"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="https://www.linkedin.com/in/vivek-gowda-s-608002325/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:vivekgowdashivakumar@gmail.com"><img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -19,29 +19,31 @@
   </p>
 </div>
 
-## Featured Project
+---
+
+## 📱 Featured Project
 
 <div align="center">
-  <table>
+  <table width="100%" style="border-collapse: collapse; border: 1px solid #e1e4e8; border-radius: 12px; overflow: hidden; background: linear-gradient(145deg, #ffffff, #f6f8fa); box-shadow: 0 4px 15px rgba(0,0,0,0.05); margin: 20px 0;">
     <tr>
-      <td align="center" valign="middle" width="120">
-        <img src="assets/switchai-icon.png" width="88" height="88" alt="SwitchAi" />
+      <td align="center" valign="middle" width="140" style="padding: 20px;">
+        <img src="assets/switchai-icon.png" width="96" height="96" style="border-radius: 22px; box-shadow: 0 8px 16px rgba(0,0,0,0.1);" alt="SwitchAi" />
       </td>
-      <td align="left" valign="middle">
-        <h3 style="margin:0 0 6px 0;">SwitchAi</h3>
-        <p style="margin:0 0 14px 0;">
-          Multi-AI model routing platform that sends each query to the best-suited model, with support for image bridging and seamless model switching.
+      <td align="left" valign="middle" style="padding: 20px;">
+        <h3 style="margin: 0 0 6px 0; font-size: 22px; font-weight: 700;">SwitchAi</h3>
+        <p style="margin: 0 0 16px 0; font-size: 15px; color: #4b5563; line-height: 1.5;">
+          A multi-AI model routing platform that dynamically sends each query to the best-suited model, featuring real-time image bridging and seamless model switching for optimized intelligence and performance.
         </p>
-        <table>
-          <tr>
-            <td style="padding:0 12px 0 0;">
+        <table style="border-collapse: collapse; border: none; background: transparent; width: auto; margin: 0;">
+          <tr style="border: none; background: transparent;">
+            <td style="padding: 0 12px 0 0; border: none; background: transparent;">
               <a href="https://play.google.com/store/apps/details?id=com.vivekgowdas.SwitchAi&hl=en_IN">
-                <img src="pngtree-google-play-app-icon-vector-png-image_12256664.png" width="155" alt="Google Play" />
+                <img src="assets/google-play-badge.svg" height="40" alt="Get it on Google Play" />
               </a>
             </td>
-            <td style="padding:0;">
+            <td style="padding: 0; border: none; background: transparent;">
               <a href="https://apps.apple.com/us/app/switchai-multi-ai-app/id6759476162">
-                <img src="download-on-the-app-store-apple-logo.svg" width="155" alt="App Store" />
+                <img src="assets/download-on-the-app-store-apple-logo.svg" height="40" alt="Download on the App Store" />
               </a>
             </td>
           </tr>
@@ -51,111 +53,58 @@
   </table>
 </div>
 
-## What I Build
+---
 
-- AI-powered mobile apps
-- Model routing and agentic workflows
-- RAG systems and LLM integrations
-- Production-ready product experiences
+## 🚀 What I Build
 
-## My Favorite Tools and Technologies
+- **AI-Powered Mobile Apps:** Seamlessly combining on-device performance with state-of-the-art LLMs.
+- **Model Routing & Agents:** Architecting workflows that route tasks to the most efficient model.
+- **RAG Systems:** Building retrieval pipelines to bring contextual domain knowledge to LLM workflows.
+- **Production Experiences:** Bringing ideas from initial concept all the way to App Store and Google Play releases.
 
-> Tools and technologies that I have worked with and am interested in
+---
+
+## 🛠️ Tech Stack & Favorite Tools
 
 <table>
   <tr>
-    <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
-      <br><span style="white-space: nowrap;">React Native</span>
+    <td valign="top" width="50%" style="padding: 12px;">
+      <h4>📱 Mobile & Frontend</h4>
+      <img src="https://skillicons.dev/icons?i=react,expo,tailwind,figma" alt="Mobile & Frontend Stack" />
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
-      <br>Express.js
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-      <br>Firebase
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=expo" width="48" height="48" alt="Expo" />
-      <br>Expo
+    <td valign="top" width="50%" style="padding: 12px;">
+      <h4>⚙️ Backend & Services</h4>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,typescript,javascript" alt="Backend Stack" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
+    <td valign="top" width="50%" style="padding: 12px;">
+      <h4>🧠 Programming & AI</h4>
+      <img src="https://skillicons.dev/icons?i=python,c,linux" alt="AI & Core Language Stack" />
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-      <br>C
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-      <br>Figma
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="REST APIs" />
-      <br>REST APIs
-    </td>
-    <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind
+    <td valign="top" width="50%" style="padding: 12px;">
+      <h4>🛠️ Tooling & Workflows</h4>
+      <img src="https://skillicons.dev/icons?i=git,github" alt="Workflows & Version Control" />
     </td>
   </tr>
 </table>
 
-## Skills
+---
 
-- `LLMs`
-- `RAG Pipelines`
-- `Agentic Workflows`
-- `Model Fine-tuning`
-- `Auth`
-- `RevenueCat`
+## 🎓 Skills & Core Architecture
 
-## Core Stack
+- **AI & Intelligent Systems:** Large Language Models (LLMs), RAG Pipelines, Agentic Workflows, Model Fine-Tuning
+- **App Store Optimization & Payments:** RevenueCat (In-app Purchases / Subscriptions), App Store & Play Store Publishing
+- **Infrastructure & Security:** Firebase Authentication, Firestore Database, Secure REST APIs, Node.js Middlewares
 
-| Area | Tools |
-| --- | --- |
-| Mobile | React Native, Expo |
-| Backend | Node.js, Express.js, REST APIs |
-| AI | LLMs, RAG Pipelines, Agentic Workflows, Model Fine-tuning |
-| Product | Firebase, Auth, RevenueCat, Git, Figma |
+---
 
-## Links
+## 👤 About Me & Core Philosophy
 
-- [GitHub](https://github.com/vivek-1910)
-- [LinkedIn](https://www.linkedin.com/in/vivek-gowda-s-608002325/)
-- [Email](mailto:vivekgowdashivakumar@gmail.com)
-- [Resume](https://github.com/vivek-1910/vivek-1910/blob/main/README.md)
+I am passionate about building software from the ground up—bridging the gap between beautiful mobile user experiences and powerful backend/AI technologies. I design with scalability, performance, and delightful UX in mind.
 
-## About Me
+Feel free to connect or reach out!
+- 🌐 **GitHub:** [vivek-1910](https://github.com/vivek-1910)
+- 💼 **LinkedIn:** [Vivek Gowda S](https://www.linkedin.com/in/vivek-gowda-s-608002325/)
+- 📧 **Email:** [vivekgowdashivakumar@gmail.com](mailto:vivekgowdashivakumar@gmail.com)
 
-I like building apps from idea to release, especially where mobile UX and applied AI overlap.

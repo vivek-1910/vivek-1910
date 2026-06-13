@@ -23,25 +23,28 @@
 
 ## 📱 Featured Project
 
-<p align="center">
-  <img src="assets/switchai-icon.png" width="234" height="234" style="border-radius: 47px; box-shadow: 0 6px 16px rgba(0,0,0,0.1);" alt="SwitchAi Logo" />
-</p>
-
-<h3 align="center" style="font-size: 24px; margin-top: 10px;">SwitchAi</h3>
-
-<p align="center" style="max-width: 600px; margin: 0 auto 16px auto; font-size: 15px; color: #4b5563; line-height: 1.6;">
-  A multi-AI model routing platform that dynamically sends each query to the best-suited model, featuring real-time image bridging and seamless model switching for optimized intelligence and performance.
-</p>
-
-<p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.vivekgowdas.SwitchAi&hl=en_IN">
-    <img src="https://img.shields.io/badge/Google_Play-000000?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://apps.apple.com/us/app/switchai-multi-ai-app/id6759476162">
-    <img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="App Store" />
-  </a>
-</p>
+<table width="100%" style="border-collapse: collapse; border: none; background: transparent; width: 100%;">
+  <tr style="border: none; background: transparent;">
+    <td align="center" valign="middle" width="150" style="padding: 10px; border: none; background: transparent;">
+      <img src="assets/switchai-icon-cropped.png" width="120" height="120" style="border-radius: 24px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" alt="SwitchAi Logo" />
+    </td>
+    <td align="left" valign="middle" style="padding: 10px 10px 10px 20px; border: none; background: transparent;">
+      <h3 style="font-size: 28px; margin: 0 0 10px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 700; border-bottom: none;">SwitchAi</h3>
+      <p style="font-size: 16px; color: #4b5563; line-height: 1.6; margin: 0 0 20px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
+        A multi-AI model routing platform that dynamically sends each query to the best-suited model, featuring real-time image bridging and seamless model switching for optimized intelligence and performance.
+      </p>
+      <p style="margin: 0;">
+        <a href="https://play.google.com/store/apps/details?id=com.vivekgowdas.SwitchAi&hl=en_IN">
+          <img src="assets/google-play-animated.svg?v=1" height="50" alt="Get it on Google Play" />
+        </a>
+        &nbsp;&nbsp;
+        <a href="https://apps.apple.com/us/app/switchai-multi-ai-app/id6759476162">
+          <img src="assets/app-store-animated.svg?v=1" height="50" alt="Download on the App Store" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 

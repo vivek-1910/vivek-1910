@@ -36,7 +36,8 @@ B.Tech AIML student and full-stack mobile developer building AI-driven products 
 
 Multi-AI model routing platform that sends each query to the best-suited model, with support for image bridging and seamless model switching.
 
-- Play Store: https://play.google.com/store/apps/details?id=com.vivekgowdas.SwitchAi
+- Play Store: https://play.google.com/store/apps/details?id=com.vivekgowdas.SwitchAi&hl=en_IN
+- App Store: https://apps.apple.com/us/app/switchai-multi-ai-app/id6759476162
 
 ## Links
 

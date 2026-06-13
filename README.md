@@ -24,7 +24,7 @@
 <table>
   <tr>
     <td width="120" align="center" valign="top">
-      <img src="https://play-lh.googleusercontent.com/xSBKvqaPDAeYd8p-SnSsryiiALJKtCQ5tirwPR_8B2KnBMjkQCwYi4g4NhZDv6sbIctellgqj50QNsm4RJw5=w2400" width="96" height="96" alt="SwitchAi" />
+      <img src="assets/switchai-icon.png" width="96" height="96" alt="SwitchAi" />
     </td>
     <td valign="top">
       <h3>SwitchAi</h3>

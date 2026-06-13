@@ -24,7 +24,7 @@
 ## 📱 Featured Project
 
 <p align="center">
-  <img src="assets/switchai-icon.png" width="180" height="180" style="border-radius: 36px; box-shadow: 0 6px 16px rgba(0,0,0,0.1);" alt="SwitchAi Logo" />
+  <img src="assets/switchai-icon.png" width="234" height="234" style="border-radius: 47px; box-shadow: 0 6px 16px rgba(0,0,0,0.1);" alt="SwitchAi Logo" />
 </p>
 
 <h3 align="center" style="font-size: 24px; margin-top: 10px;">SwitchAi</h3>
@@ -56,7 +56,7 @@
 
 ## My Favorite Tools and Technologies
 
-> Tools and technologies that I have worked with and am interested in
+> Tools and technologies that I work with most
 
 <table>
   <tr>
@@ -64,84 +64,45 @@
       <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
       <br><span style="white-space: nowrap;">React Native</span>
     </td>
-    <td align="center" width="110">
+    <td align="center" width="130">
       <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
       <br>Node.js
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
-      <br>Express.js
-    </td>
-    <td align="center" width="110">
+    <td align="center" width="130">
       <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
       <br>Firebase
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=expo" width="48" height="48" alt="Expo" />
-      <br>Expo
-    </td>
   </tr>
   <tr>
-    <td align="center" width="110">
+    <td align="center" width="130">
       <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
       <br>TypeScript
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-      <br>C
-    </td>
-    <td align="center" width="110">
+    <td align="center" width="130">
       <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
       <br>Figma
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="REST APIs" />
-      <br>REST APIs
-    </td>
-    <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="110">
+    <td align="center" width="130">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind
+      <br>Git & GitHub
     </td>
   </tr>
 </table>
 
 ---
 
-## 🎓 Skills & Core Architecture
+## 👤 About Me & Core Philosophy
 
-- **AI & Intelligent Systems:** Large Language Models (LLMs), RAG Pipelines, Agentic Workflows, Model Fine-Tuning
-- **App Store Optimization & Payments:** RevenueCat (In-app Purchases / Subscriptions), App Store & Play Store Publishing
-- **Infrastructure & Security:** Firebase Authentication, Firestore Database, Secure REST APIs, Node.js Middlewares
+I am an AI/ML student and full-stack mobile developer dedicated to bridging the gap between advanced agentic workflows and beautiful, intuitive mobile user experiences. My development philosophy centers around:
+
+*   📱 **Product-First Development:** I build apps that are not just technically advanced but production-ready—focusing on fluid performance, clean layout, and premium UX/UI.
+*   🧠 **Applied Intelligence:** I specialize in integrating LLM architectures, intelligent model routing, and robust database layers into responsive mobile apps.
+*   ⚡ **Full-Cycle Ownership:** From the first conceptual design in Figma to API creation, database design, and final App Store/Play Store deployment, I enjoy owning the entire product lifecycle.
 
 ---
 
-## 👤 About Me & Core Philosophy
+### Let's Connect!
 
-I am passionate about building software from the ground up—bridging the gap between beautiful mobile user experiences and powerful backend/AI technologies. I design with scalability, performance, and delightful UX in mind.
-
-Feel free to connect or reach out!
 - 🌐 **GitHub:** [vivek-1910](https://github.com/vivek-1910)
 - 💼 **LinkedIn:** [Vivek Gowda S](https://www.linkedin.com/in/vivek-gowda-s-608002325/)
 - 📧 **Email:** [vivekgowdashivakumar@gmail.com](mailto:vivekgowdashivakumar@gmail.com)

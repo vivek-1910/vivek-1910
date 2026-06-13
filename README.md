@@ -43,6 +43,7 @@ Multi-AI model routing platform that sends each query to the best-suited model, 
 
 - GitHub: https://github.com/vivek-1910
 - LinkedIn: https://www.linkedin.com/in/vivek-gowda-s-608002325/
+- Play Store Dev Profile: https://play.google.com/store/apps/dev?id=7646915108714080194&hl=en_IN
 - Email: vivekgowdashivakumar@gmail.com
 - Resume: https://github.com/vivek-1910/vivek-1910/blob/main/README.md
 

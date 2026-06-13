@@ -21,13 +21,28 @@
 
 ## Featured Project
 
-### SwitchAi
-
-Multi-AI model routing platform that sends each query to the best-suited model, with support for image bridging and seamless model switching.
-
-- [Play Store](https://play.google.com/store/apps/details?id=com.vivekgowdas.SwitchAi&hl=en_IN)
-- [App Store](https://apps.apple.com/us/app/switchai-multi-ai-app/id6759476162)
-- [Developer Profile](https://play.google.com/store/apps/dev?id=7646915108714080194&hl=en_IN)
+<table>
+  <tr>
+    <td width="120" align="center" valign="top">
+      <img src="https://play-lh.googleusercontent.com/xSBKvqaPDAeYd8p-SnSsryiiALJKtCQ5tirwPR_8B2KnBMjkQCwYi4g4NhZDv6sbIctellgqj50QNsm4RJw5=w2400" width="96" height="96" alt="SwitchAi" />
+    </td>
+    <td valign="top">
+      <h3>SwitchAi</h3>
+      <p>Multi-AI model routing platform that sends each query to the best-suited model, with support for image bridging and seamless model switching.</p>
+      <p>
+        <a href="https://play.google.com/store/apps/details?id=com.vivekgowdas.SwitchAi&hl=en_IN">
+          <img src="https://img.shields.io/badge/Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play" />
+        </a>
+        <a href="https://apps.apple.com/us/app/switchai-multi-ai-app/id6759476162">
+          <img src="https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="App Store" />
+        </a>
+        <a href="https://play.google.com/store/apps/dev?id=7646915108714080194&hl=en_IN">
+          <img src="https://img.shields.io/badge/Developer%20Profile-1A73E8?style=for-the-badge&logo=googleplay&logoColor=white" alt="Developer Profile" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## What I Build
 

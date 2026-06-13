@@ -23,29 +23,25 @@
 
 ## 📱 Featured Project
 
-<div align="center">
-  <table width="100%" style="border-collapse: collapse; border: 1px solid #e1e4e8; border-radius: 12px; overflow: hidden; background: linear-gradient(145deg, #ffffff, #f6f8fa); box-shadow: 0 4px 15px rgba(0,0,0,0.05); margin: 20px 0;">
-    <tr>
-      <td align="center" valign="middle" width="140" style="padding: 20px;">
-        <img src="assets/switchai-icon.png" width="96" height="96" style="border-radius: 22px; box-shadow: 0 8px 16px rgba(0,0,0,0.1);" alt="SwitchAi" />
-      </td>
-      <td align="left" valign="middle" style="padding: 20px;">
-        <h3 style="margin: 0 0 6px 0; font-size: 22px; font-weight: 700;">SwitchAi</h3>
-        <p style="margin: 0 0 16px 0; font-size: 15px; color: #4b5563; line-height: 1.5;">
-          A multi-AI model routing platform that dynamically sends each query to the best-suited model, featuring real-time image bridging and seamless model switching for optimized intelligence and performance.
-        </p>
-        <p style="margin: 0;">
-          <a href="https://play.google.com/store/apps/details?id=com.vivekgowdas.SwitchAi&hl=en_IN">
-            <img src="https://img.shields.io/badge/Google_Play-000000?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" />
-          </a>
-          <a href="https://apps.apple.com/us/app/switchai-multi-ai-app/id6759476162">
-            <img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="App Store" />
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="assets/switchai-icon.png" width="100" height="100" style="border-radius: 22px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" alt="SwitchAi Logo" />
+</p>
+
+<h3 align="center" style="font-size: 24px; margin-top: 10px;">SwitchAi</h3>
+
+<p align="center" style="max-width: 600px; margin: 0 auto 16px auto; font-size: 15px; color: #4b5563; line-height: 1.6;">
+  A multi-AI model routing platform that dynamically sends each query to the best-suited model, featuring real-time image bridging and seamless model switching for optimized intelligence and performance.
+</p>
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.vivekgowdas.SwitchAi&hl=en_IN">
+    <img src="https://img.shields.io/badge/Google_Play-000000?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://apps.apple.com/us/app/switchai-multi-ai-app/id6759476162">
+    <img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="App Store" />
+  </a>
+</p>
 
 ---
 

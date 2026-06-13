@@ -3,8 +3,6 @@
 <div style="font-family: 'Varela Round', sans-serif; font-weight: normal;">
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/153922858?v=4" width="130" height="130" style="border-radius: 50%;" alt="Vivek Gowda S" />
-
   <h1 style="font-family: 'Varela Round', sans-serif; font-weight: normal; margin-top: 15px; margin-bottom: 5px;">Vivek Gowda S</h1>
   
   <p align="center" style="font-weight: normal;">

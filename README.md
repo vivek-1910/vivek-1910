@@ -36,10 +36,6 @@
         <a href="https://apps.apple.com/us/app/switchai-multi-ai-app/id6759476162" style="display:inline-block;margin-right:14px;text-decoration:none;">
           <img src="download-on-the-app-store-apple-logo.svg" width="170" alt="App Store" style="vertical-align:middle;" />
         </a>
-        <a href="https://play.google.com/store/apps/dev?id=7646915108714080194&hl=en_IN" style="display:inline-block;text-decoration:none;">
-          <img src="https://skillicons.dev/icons?i=googleplay" width="40" height="40" alt="Developer Profile" style="vertical-align:middle;" />
-          <span style="display:inline-block;vertical-align:middle;margin-left:8px;font-weight:600;color:#ffffff;">Developer Profile</span>
-        </a>
       </p>
     </td>
   </tr>

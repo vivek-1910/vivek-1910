@@ -21,25 +21,35 @@
 
 ## Featured Project
 
-<table>
-  <tr>
-    <td width="120" align="center" valign="top">
-      <img src="assets/switchai-icon.png" width="96" height="96" alt="SwitchAi" />
-    </td>
-    <td valign="top">
-      <h3>SwitchAi</h3>
-      <p>Multi-AI model routing platform that sends each query to the best-suited model, with support for image bridging and seamless model switching.</p>
-      <p>
-        <a href="https://play.google.com/store/apps/details?id=com.vivekgowdas.SwitchAi&hl=en_IN" style="display:inline-block;margin-right:14px;text-decoration:none;">
-          <img src="pngtree-google-play-app-icon-vector-png-image_12256664.png" width="170" alt="Google Play" style="vertical-align:middle;" />
-        </a>
-        <a href="https://apps.apple.com/us/app/switchai-multi-ai-app/id6759476162" style="display:inline-block;margin-right:14px;text-decoration:none;">
-          <img src="download-on-the-app-store-apple-logo.svg" width="170" alt="App Store" style="vertical-align:middle;" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" valign="middle" width="120">
+        <img src="assets/switchai-icon.png" width="88" height="88" alt="SwitchAi" />
+      </td>
+      <td align="left" valign="middle">
+        <h3 style="margin:0 0 6px 0;">SwitchAi</h3>
+        <p style="margin:0 0 14px 0;">
+          Multi-AI model routing platform that sends each query to the best-suited model, with support for image bridging and seamless model switching.
+        </p>
+        <table>
+          <tr>
+            <td style="padding:0 12px 0 0;">
+              <a href="https://play.google.com/store/apps/details?id=com.vivekgowdas.SwitchAi&hl=en_IN">
+                <img src="pngtree-google-play-app-icon-vector-png-image_12256664.png" width="155" alt="Google Play" />
+              </a>
+            </td>
+            <td style="padding:0;">
+              <a href="https://apps.apple.com/us/app/switchai-multi-ai-app/id6759476162">
+                <img src="download-on-the-app-store-apple-logo.svg" width="155" alt="App Store" />
+              </a>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## What I Build
 

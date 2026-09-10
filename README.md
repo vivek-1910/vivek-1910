@@ -19,52 +19,36 @@ My favorite part? Owning the whole journey — from the first design to the API,
 
 <br>
 
-## 01 / In the spotlight
+<a href="https://switchaicloud.com"><img src="assets/switchai-showcase.svg" width="100%" alt="01 / Selected project — SwitchAi. Multiple AI models. One place to think. Intelligent routing, image workflows, and a seamless mobile experience. Explore SwitchAi." /></a>
 
-<img src="assets/switchai-icon-cropped.png" width="72" height="72" alt="SwitchAi app icon" />
-
-### SwitchAi
-
-**Multiple AI models. One place to think.**
-
-An AI-powered mobile app built around intelligent model routing, image workflows, and seamless model switching. A project where mobile experience and applied AI come together.
-
-<p>
-  <a href="https://switchaicloud.com"><strong>Explore SwitchAi ↗</strong></a>
-  &nbsp; · &nbsp; Available on iOS and Android
-</p>
-
-<p>
-  <a href="https://apps.apple.com/us/app/switchai-multi-ai-app/id6759476162"><img src="https://img.shields.io/badge/App_Store-Download-141815?style=for-the-badge&amp;logo=apple&amp;logoColor=white&amp;labelColor=252d24" alt="Download SwitchAi on the App Store" /></a>
-  &nbsp;
-  <a href="https://play.google.com/store/apps/details?id=com.vivekgowdas.SwitchAi&amp;hl=en_IN"><img src="https://img.shields.io/badge/Google_Play-Download-141815?style=for-the-badge&amp;logo=googleplay&amp;logoColor=c7f36b&amp;labelColor=252d24" alt="Download SwitchAi on Google Play" /></a>
+<p align="center">
+  <a href="https://apps.apple.com/us/app/switchai-multi-ai-app/id6759476162"><strong>Download for iOS ↗</strong></a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.vivekgowdas.SwitchAi&amp;hl=en_IN"><strong>Get it on Android ↗</strong></a>
 </p>
 
 <br>
 
 ## 02 / What I work on
 
-| Focus | What that looks like |
-| :--- | :--- |
-| **Mobile experiences** | React Native apps with thoughtful interfaces and fluid performance. |
-| **Applied AI** | LLM integrations, model routing, and agent workflows that serve a real purpose. |
-| **Context & retrieval** | RAG pipelines that bring relevant knowledge into the conversation. |
-| **Shipping products** | Design, APIs, databases, and releases on the App Store and Google Play. |
+<p align="center">
+  <img src="assets/focus-mobile.svg" width="49%" alt="Mobile experiences — Thoughtful interfaces. Fluid native performance." />
+  <img src="assets/focus-ai.svg" width="49%" alt="Applied intelligence — Model routing and agents. AI with a useful purpose." />
+  <img src="assets/focus-retrieval.svg" width="49%" alt="Context and retrieval — Relevant knowledge. Better conversations." />
+  <img src="assets/focus-shipping.svg" width="49%" alt="From idea to release — Design. Build. Ship. Own the whole journey." />
+</p>
 
 <br>
 
-## 03 / My everyday toolkit
-
-**Build** &nbsp; React Native · TypeScript · Node.js<br>
-**Connect** &nbsp; Firebase · LLM integrations · Retrieval pipelines<br>
-**Design & ship** &nbsp; Figma · Git · GitHub · App Store · Google Play
+<img src="assets/toolkit.svg" width="100%" alt="03 / The toolkit — React Native, TypeScript, Node.js, Firebase, Figma, GitHub. Mobile development, AI systems, design and delivery." />
 
 <br>
+<br>
 
----
+<a href="mailto:vivekgowdashivakumar@gmail.com"><img src="assets/connect.svg" width="100%" alt="Let’s build something useful. Good products start with a conversation. Email Vivek." /></a>
 
-### Good products start with a conversation.
-
-Interested in mobile apps, applied AI, or building something useful? Let's connect.
-
-**[Say hello ↗](mailto:vivekgowdashivakumar@gmail.com)** &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/vivek-gowda-s-608002325/) · [GitHub](https://github.com/vivek-1910)
+<p align="center">
+  <a href="mailto:vivekgowdashivakumar@gmail.com">Email me ↗</a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/vivek-gowda-s-608002325/">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="https://github.com/vivek-1910">GitHub</a>
+</p>

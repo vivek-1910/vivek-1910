@@ -21,21 +21,13 @@ My favorite part? Owning the whole journey — from the first design to the API,
 
 ## 01 / Built & shipped
 
-<table>
-<tr>
-<td width="120" align="center" valign="top">
-<br>
-<img src="assets/switchai-icon-cropped.png" width="88" height="88" alt="SwitchAi app icon" />
-</td>
-<td>
-<h3>SwitchAi ↗</h3>
-<p><strong>Multiple AI models. One place to think.</strong></p>
-<p>My take on a better everyday AI companion — bringing intelligent model routing, image workflows, and seamless model switching into one mobile app.</p>
-<p><a href="https://switchaicloud.com"><strong>Explore the product ↗</strong></a></p>
-<p><a href="https://apps.apple.com/us/app/switchai-multi-ai-app/id6759476162">Download for iOS</a> &nbsp; · &nbsp; <a href="https://play.google.com/store/apps/details?id=com.vivekgowdas.SwitchAi&amp;hl=en_IN">Get it on Android</a></p>
-</td>
-</tr>
-</table>
+<a href="https://switchaicloud.com"><img src="assets/switchai-card.svg" width="100%" alt="SwitchAi — Multiple AI models. One place to think. Intelligent routing, image workflows, and model switching in one mobile app. Explore SwitchAi." /></a>
+
+<p align="center">
+  <a href="https://apps.apple.com/us/app/switchai-multi-ai-app/id6759476162"><strong>Download for iOS ↗</strong></a>
+  &nbsp;&nbsp; · &nbsp;&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.vivekgowdas.SwitchAi&amp;hl=en_IN"><strong>Get it on Android ↗</strong></a>
+</p>
 
 <br>
 

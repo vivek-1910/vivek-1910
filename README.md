@@ -19,36 +19,58 @@ My favorite part? Owning the whole journey — from the first design to the API,
 
 <br>
 
-<a href="https://switchaicloud.com"><img src="assets/switchai-showcase.svg" width="100%" alt="01 / Selected project — SwitchAi. Multiple AI models. One place to think. Intelligent routing, image workflows, and a seamless mobile experience. Explore SwitchAi." /></a>
+## 01 / Built & shipped
 
-<p align="center">
-  <a href="https://apps.apple.com/us/app/switchai-multi-ai-app/id6759476162"><strong>Download for iOS ↗</strong></a>
-  &nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="https://play.google.com/store/apps/details?id=com.vivekgowdas.SwitchAi&amp;hl=en_IN"><strong>Get it on Android ↗</strong></a>
+<table>
+<tr>
+<td width="120" align="center" valign="top">
+<br>
+<img src="assets/switchai-icon-cropped.png" width="88" height="88" alt="SwitchAi app icon" />
+</td>
+<td>
+<h3>SwitchAi ↗</h3>
+<p><strong>Multiple AI models. One place to think.</strong></p>
+<p>My take on a better everyday AI companion — bringing intelligent model routing, image workflows, and seamless model switching into one mobile app.</p>
+<p><a href="https://switchaicloud.com"><strong>Explore the product ↗</strong></a></p>
+<p><a href="https://apps.apple.com/us/app/switchai-multi-ai-app/id6759476162">Download for iOS</a> &nbsp; · &nbsp; <a href="https://play.google.com/store/apps/details?id=com.vivekgowdas.SwitchAi&amp;hl=en_IN">Get it on Android</a></p>
+</td>
+</tr>
+</table>
+
+<br>
+
+## 02 / Where I spend my time
+
+### ◇ &nbsp; Crafting the experience
+
+Mobile apps should feel effortless. I work with **React Native and TypeScript** to turn an idea into a thoughtful interface, with the performance and polish to match.
+
+### ⌘ &nbsp; Building the intelligence
+
+Behind the interface: **LLM integrations, model routing, agents, and retrieval pipelines**. I like making complex systems feel simple to the person using them.
+
+### ↗ &nbsp; Taking it all the way
+
+From Figma to APIs, databases, and the final release — I enjoy connecting the pieces and **shipping to the App Store and Google Play**.
+
+<br>
+
+## 03 / On my workbench
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,firebase,figma,git&amp;theme=light" alt="React, TypeScript, Node.js, Firebase, Figma, and Git" />
 </p>
 
-<br>
+**React Native** &nbsp; / &nbsp; **TypeScript** &nbsp; / &nbsp; **Node.js** &nbsp; / &nbsp; **Firebase** &nbsp; / &nbsp; **Figma** &nbsp; / &nbsp; **Git**
 
-## 02 / What I work on
-
-<p align="center">
-  <img src="assets/focus-mobile.svg" width="49%" alt="Mobile experiences — Thoughtful interfaces. Fluid native performance." />
-  <img src="assets/focus-ai.svg" width="49%" alt="Applied intelligence — Model routing and agents. AI with a useful purpose." />
-  <img src="assets/focus-retrieval.svg" width="49%" alt="Context and retrieval — Relevant knowledge. Better conversations." />
-  <img src="assets/focus-shipping.svg" width="49%" alt="From idea to release — Design. Build. Ship. Own the whole journey." />
-</p>
+Mobile at the front. Applied AI behind it. Product thinking throughout.
 
 <br>
 
-<img src="assets/toolkit.svg" width="100%" alt="03 / The toolkit — React Native, TypeScript, Node.js, Firebase, Figma, GitHub. Mobile development, AI systems, design and delivery." />
+---
 
-<br>
-<br>
+### Have an idea in mind?
 
-<a href="mailto:vivekgowdashivakumar@gmail.com"><img src="assets/connect.svg" width="100%" alt="Let’s build something useful. Good products start with a conversation. Email Vivek." /></a>
+I'm always up for a conversation about mobile products, applied AI, or something useful we could build.
 
-<p align="center">
-  <a href="mailto:vivekgowdashivakumar@gmail.com">Email me ↗</a> &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/vivek-gowda-s-608002325/">LinkedIn</a> &nbsp; / &nbsp;
-  <a href="https://github.com/vivek-1910">GitHub</a>
-</p>
+**[Let’s talk ↗](mailto:vivekgowdashivakumar@gmail.com)** &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/vivek-gowda-s-608002325/) · [GitHub](https://github.com/vivek-1910)

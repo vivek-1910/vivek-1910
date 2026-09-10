@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+  <title id="title">Vivek Gowda S — Ideas into apps.</title>
+  <desc id="desc">AI product builder and full-stack mobile developer. A charcoal banner with lime typography and an abstract orbital illustration.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern>
+    <radialGradient id="glow"><stop stop-color="#c7f36b" stop-opacity=".15"/><stop offset="1" stop-color="#c7f36b" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="440" rx="24" fill="#141815"/>
+  <rect width="1200" height="440" rx="24" fill="url(#grid)"/>
+  <circle cx="990" cy="220" r="280" fill="url(#glow)"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <circle cx="57" cy="55" r="5" fill="#c7f36b"/>
+    <text x="73" y="60" fill="#c7f36b" font-size="14" letter-spacing="3">VIVEK GOWDA S</text>
+    <text x="52" y="166" fill="#f4f5ee" font-size="76" font-weight="700" letter-spacing="-4">Ideas into apps.</text>
+    <text x="54" y="245" fill="#c7f36b" font-size="76" font-weight="700" letter-spacing="-4">Built to be used.</text>
+    <text x="57" y="295" fill="#b0b9af" font-size="20">AI product builder · Full-stack mobile developer</text>
+    <path d="M56 348 H720" stroke="#364033"/>
+    <text x="57" y="384" fill="#b0b9af" font-size="13" letter-spacing="2">MOBILE EXPERIENCES / APPLIED AI / END-TO-END PRODUCTS</text>
+  </g>
+  <g transform="translate(977 217)" fill="none">
+    <circle r="139" stroke="#536047"/>
+    <circle r="105" stroke="#536047" stroke-dasharray="3 9"/>
+    <ellipse rx="67" ry="162" stroke="#a0c568" transform="rotate(38)"/>
+    <ellipse rx="67" ry="162" stroke="#a0c568" transform="rotate(-38)"/>
+    <circle r="44" fill="#c7f36b"/>
+    <path d="m-17 -7 17 20 22-30" stroke="#141815" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="139" r="7" fill="#c7f36b"/>
+    <circle cx="-98" cy="-98" r="5" fill="#f4f5ee"/>
+  </g>
+</svg>
